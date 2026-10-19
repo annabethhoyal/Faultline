@@ -1,5 +1,7 @@
-Milestone status: What did you complete for the MVP from your original plan? What did you not complete? What did you do that was not part of your original plan?
-Surprises and challenges: What challenges and surprises did you encounter that affected your ability to progress according to plan?
-Design and concept changes: Has your work thus far caused you to reassess any of your original concept, goals, deliverables, etc.? If so, explain what has changed and why.
-Technical changes: Has your work thus far caused you to reassess any elements of your technical toolset? If so, explain what has changed and why.
-Collaboration: Have you encountered any challenges in working effectively as a group? Has everyone in the group made equal contributions? Explain any challenges, as well as any discrepancies in level of contribution from group members.
+# Milestone status: What did you complete for the MVP from your original plan? What did you not complete? What did you do that was not part of your original plan?
+# Surprises and challenges: What challenges and surprises did you encounter that affected your ability to progress according to plan?
+# Design and concept changes: Has your work thus far caused you to reassess any of your original concept, goals, deliverables, etc.? If so, explain what has changed and why.
+As we started building our resonators, we were realizing that there aren't a lot of true and audible references out there to recreate, as existing recordings are often created in labs from small rock samples or they're outside of the range of human hearing. Because of this, we've decided to shift towards sounds that are inspired by geological processes rather than literal recreations, at least for this iteration. We've been designing the resonators based off of the characteristics described by research: low, rumbling booms for brittle structures and shorter, high-pitched crackles for ductile ones. We're thinking we can later incorporate real recordings (possibly use geophones) and compare our output against those to ground our sound design in field data.
+
+# Technical changes: Has your work thus far caused you to reassess any elements of your technical toolset? If so, explain what has changed and why.
+# Collaboration: Have you encountered any challenges in working effectively as a group? Has everyone in the group made equal contributions? Explain any challenges, as well as any discrepancies in level of contribution from group members.
