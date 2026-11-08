@@ -1,0 +1,16 @@
+Milestone status: What did you complete for the beta from your original plan? What did you not complete? What did you do that was not part of your original plan?
+
+
+Surprises and challenges: What challenges and surprises did you encounter that affected your ability to progress according to plan?
+
+
+Design and concept changes: Has your work thus far caused you to reassess any of your original concept, goals, deliverables, etc.? If so, explain what has changed and why.
+
+
+Technical changes: Has your work thus far caused you to reassess any elements of your technical toolset? If so, explain what has changed and why.
+
+
+Remaining work: What are your "must-complete" tasks between now and the final version? What are your "stretch" goals that you will complete if time allows? Which group member is taking the lead on each item?
+
+
+Collaboration: Have you encountered any challenges in working effectively as a group? Has everyone in the group made equal contributions? Explain any challenges, as well as any discrepancies in level of contribution from group members.
