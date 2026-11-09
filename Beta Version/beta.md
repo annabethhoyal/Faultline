@@ -1,5 +1,5 @@
 Milestone status: What did you complete for the beta from your original plan? What did you not complete? What did you do that was not part of your original plan?
-
+- With the beta, we have a functioning .pd patch that combines all of our efforts. The depth parameter is present, allowing for the blend of the two resonator signals. Not present are full parameter controls for both resonators and rock type selection.
 
 Surprises and challenges: What challenges and surprises did you encounter that affected your ability to progress according to plan?
 - One challenge we encountered was that the resonators were initially sounding too pitched like tones instead of rock resonances. We found that adding more modes closer together in frequency counteracted this and produced a more natural sound, because the partials blurred together rather than standing out individually.
@@ -11,7 +11,7 @@ Technical changes: Has your work thus far caused you to reassess any elements of
 - For the brittle resonator, we switched from Pd’s bandpass filter to a biquad filter which let us set each mode's decay directly through its pole radius, independent of frequency. This required calculating the filter coefficients, for which we used an abstraction. We also normalize these coefficients to keep mode levels consistent.
 
 Remaining work: What are your "must-complete" tasks between now and the final version? What are your "stretch" goals that you will complete if time allows? Which group member is taking the lead on each item?
-- A stretch goal could be incorporating additional control parameters to allow the user to shape the sound in more ways.
+- The final version will include parameter controls for both resonators, alongside controls to futher manipulate the trigger model. A stretch goal could be incorporating resonator rock type "presets" and expanding sound design capabilities with more parameters and a custom UI.
 
-  
 Collaboration: Have you encountered any challenges in working effectively as a group? Has everyone in the group made equal contributions? Explain any challenges, as well as any discrepancies in level of contribution from group members.
+- Our collaborative process has simplified the division of deliverables among our group. Because we have been working individually on Faultline's three components, we are each able to effectively devote our time to specific, agreed-upon tasks. This has made communication difficult at times, however. Once we set our goals, however, misunderstandings can take a while to be noticed. Improving communication throughout the work period will solve this.
