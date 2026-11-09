@@ -1,4 +1,4 @@
-#N canvas 0 0 2052 1230 12;
+#N canvas 0 0 2560 1464 12;
 #X declare -path pmpd -lib pmpd;
 #X obj 107 79 tgl 19 0 empty empty empty 0 -10 0 12 #fcfcfc #000000 #000000 0 1;
 #X obj 372 105 loadbang;
@@ -32,7 +32,7 @@
 #X text 525 356 decay;
 #X obj 532 460 brittle_beta;
 #X text 529 291 brittle params;
-#X obj 895 322 hsl 162 19 0 1 0 0 empty empty empty -2 -10 0 12 #fcfcfc #000000 #000000 0 1;
+#X obj 901 322 hsl 162 19 0 1 0 0 empty empty empty -2 -10 0 12 #fcfcfc #000000 #000000 0 1;
 #X obj 889 364 - 1;
 #X obj 888 393 abs;
 #X obj 894 426 hsl 162 19 0 1 0 0 empty empty empty -2 -10 0 12 #fcfcfc #000000 #000000 0 1;
@@ -55,8 +55,6 @@
 #X msg 911 201 0.1;
 #X text 731 204 proximity thresh;
 #X text 1035 200 slip thresh;
-#X msg 1501 301;
-#X floatatom 1496 225 5 0 0 0 - - - 0;
 #X msg 947 201 0.075;
 #X msg 996 201 0.05;
 #X msg 654 204 0.75;
@@ -117,7 +115,6 @@
 #X connect 49 0 23 0;
 #X connect 51 0 14 4;
 #X connect 52 0 14 5;
-#X connect 56 0 55 0;
-#X connect 57 0 14 5;
-#X connect 59 0 14 4;
-#X connect 60 0 14 4;
+#X connect 55 0 14 5;
+#X connect 57 0 14 4;
+#X connect 58 0 14 4;
